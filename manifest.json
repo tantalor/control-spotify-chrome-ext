@@ -11,6 +11,7 @@
       "js": ["content.js"]
     }
   ],
+  "web_accessible_resources": ["inject.js"],
   "background": {
     "scripts": ["background.js"]
   },
